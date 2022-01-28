@@ -8,3 +8,11 @@ Ya di page ini kita membahas seputar game cubus dan menjadi developer server😎
 ## 🎟️ Dimana kita bisa mengajukan pertanyaan?
 [Create ticket](https://github.com/aisbir/faq/issues/new)
 - Silahkan beri label ticket jika ingin membuat ticket, dan jika ingin melaporkan sesuatu pilih label yang tersedia
+### 📷 Apa nama social media pemilik website?
+- Youtube: https://youtube.com/c/aisbirkun
+- Facebook: https://www.facebook.com/kang.komen.372
+## 🏥 Apa nama host yang digunakan di site ini
+untuk site kami menggunakan web static dikarenakan host gratis:v
+- [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://netlify.com) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://pages.cloudflare.com/)
+### 💻 Bang cara bikin tellraw titleraw gmn atau tambahin item yg bisa di click
+Sebelumnya kalian buatlah ticket lalu bilanglah masalahmu :v [Create ticket](https://github.com/aisbir/faq/issues/new)
