@@ -5,3 +5,6 @@ pertanyaan apapun kalian akan kami jawab disini dan silahkan buat issue untuk be
 Ya untuk password itu sangat mudah cukup ketik ```#elitesmp_neverdie``` maka page scoreboard akan terbuka
 ### 🌐 Apa isi page ini?
 Ya di page ini kita membahas seputar game cubus dan menjadi developer server😎
+## 🎟️ Dimana kita bisa mengajukan pertanyaan?
+[Create ticket](https://github.com/aisbir/faq/issues/new)
+- Silahkan beri label ticket jika ingin membuat ticket, dan jika ingin melaporkan sesuatu pilih label yang tersedia
