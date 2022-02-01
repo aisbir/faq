@@ -21,4 +21,6 @@ karena kalok udah 30 hari host otomatis mati dan server elite smp akan dilanjutk
 ## $ Banh command nya dimana
 Disini ya adik adik semua command udah kulengkapin [Disini](https://aisbir-nation.xyz/command)
 ### 🤨📸 Bang kok jarang upload
-Sabar ya adik adik banyak alasan aku ga upload karena beberapa alasan dikarenakan aku udah sekolah offline jadi ya kalok upload pas libur doang😀
+Sabar ya adik adik banyak alasan aku ga upload dikarenakan aku udah sekolah offline jadi ya kalok upload pas libur doang😀
+## 💫 Bang aku pengen request konten?
+Ya bilang aja ke komentar youtube ataupun ke discord aku bakalan baca semuanya walaupun sarannya juga aneh
