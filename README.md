@@ -20,3 +20,5 @@ Sebelumnya kalian buatlah ticket lalu bilanglah masalahmu :v [Create ticket](htt
 karena kalok udah 30 hari host otomatis mati dan server elite smp akan dilanjutkan bulan depan dengan lobby baru XD
 ## $ Banh command nya dimana
 Disini ya adik adik semua command udah kulengkapin [Disini](https://aisbir-nation.xyz/command)
+### 🤨📸 Bang kok jarang upload
+Sabar ya adik adik banyak alasan aku ga upload karena beberapa alasan dikarenakan aku udah sekolah offline jadi ya kalok upload pas libur doang😀
