@@ -18,3 +18,5 @@ untuk site kami menggunakan web static dikarenakan host gratis:v
 Sebelumnya kalian buatlah ticket lalu bilanglah masalahmu :v [Create ticket](https://github.com/aisbir/faq/issues/new?assignees=&labels=Ticket&template=ticket.md&title=New+ticket%21)
 ## 🎁 Bang kenapa server elite smp kadang mati?
 karena kalok udah 30 hari host otomatis mati dan server elite smp akan dilanjutkan bulan depan dengan lobby baru XD
+## $ Banh command nya dimana
+Disini ya adik adik semua command udah kulengkapin (https://aisbir-nation.xyz/command)[Disini]
