@@ -19,4 +19,4 @@ Sebelumnya kalian buatlah ticket lalu bilanglah masalahmu :v [Create ticket](htt
 ## 🎁 Bang kenapa server elite smp kadang mati?
 karena kalok udah 30 hari host otomatis mati dan server elite smp akan dilanjutkan bulan depan dengan lobby baru XD
 ## $ Banh command nya dimana
-Disini ya adik adik semua command udah kulengkapin (https://aisbir-nation.xyz/command)[Disini]
+Disini ya adik adik semua command udah kulengkapin [Disini](https://aisbir-nation.xyz/command)
