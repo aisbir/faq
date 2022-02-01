@@ -24,3 +24,5 @@ Disini ya adik adik semua command udah kulengkapin [Disini](https://aisbir-natio
 Sabar ya adik adik banyak alasan aku ga upload dikarenakan aku udah sekolah offline jadi ya kalok upload pas libur doang😀
 ## 💫 Bang aku pengen request konten?
 Ya bilang aja ke komentar youtube ataupun ke discord aku bakalan baca semuanya walaupun sarannya juga aneh
+## 👀 Bang kok lu record kadang ngelag kadang ga?, itu kenapa sih bang?
+Ya itu karena device yang ku gunakan udah 3 tahunan ada dan belum ganti sampai sekarang karena masih suka aja
